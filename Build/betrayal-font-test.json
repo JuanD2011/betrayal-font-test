@@ -1,0 +1,16 @@
+{
+"companyName": "End Game Interactive",
+"productName": "Betrayal.io",
+"productVersion": "0.3.0",
+"dataUrl": "betrayal-font-test.data.unityweb",
+"wasmCodeUrl": "betrayal-font-test.wasm.code.unityweb",
+"wasmFrameworkUrl": "betrayal-font-test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#101010",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
